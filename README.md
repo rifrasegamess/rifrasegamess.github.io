@@ -61,8 +61,11 @@ This policy is valid as of 05.12.2023.
 Contact us:
 
  youtube channel : https://www.youtube.com/@rifrasegames7989
+ 
  google play count : https://play.google.com/store/apps/dev?id=6121334158638535928
+ 
  site : https://rifrasegames.wixsite.com/rifrase-games
+ 
  mail : rifrasegames@yahoo.com
 
 
@@ -104,8 +107,11 @@ These terms and conditions are valid as of 05.12.2023.
 Contact us:
 
  youtube channel : https://www.youtube.com/@rifrasegames7989
+ 
  google play count : https://play.google.com/store/apps/dev?id=6121334158638535928
+ 
  site : https://rifrasegames.wixsite.com/rifrase-games
+ 
  mail : rifrasegames@yahoo.com
 
 If you have any questions or suggestions about our Terms and Conditions, feel free to contact us at.
