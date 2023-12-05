@@ -1,1 +1,1 @@
-# rifrasegamess.github.io
+# rifrase games wishes everyone have fun.
