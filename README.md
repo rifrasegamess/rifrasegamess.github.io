@@ -12,7 +12,7 @@ RifraseGames (“we”, “us”, or “our”) operates this mobile application
 
 RifraseGames is the data controller responsible for your information under applicable data protection laws.
 
-Contact: [rifrasegames@yahoo.com](mailto:rifrasegames@yahoo.com)
+Contact: rifrasegames@yahoo.com
 
 ---
 
@@ -162,7 +162,7 @@ For any questions regarding this Privacy Policy:
  
  site : https://rifrasegames.wixsite.com/rifrase-games
  
- mail : rifrasegames@yahoo.com (mailto:rifrasegames@yahoo.com)
+ mail : rifrasegames@yahoo.com
 
 
                                                      Terms And Conditions
@@ -277,7 +277,7 @@ Contact us:
  
  site : https://rifrasegames.wixsite.com/rifrase-games
  
- mail : rifrasegames@yahoo.com (mailto:rifrasegames@yahoo.com)
+ mail : rifrasegames@yahoo.com
 
 If you have any questions or suggestions about our Terms and Conditions, feel free to contact us at.
 
