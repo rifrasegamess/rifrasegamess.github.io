@@ -96,6 +96,7 @@ loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11463, RESELLER, 6c8d5f95897a5a3b
 lunamedia.io, 2fdb16a1-5025-4c41-9b17-e01e47ebc8b4, RESELLER, 524ecb396915caaf
+lijit.com, 528770, BAYİ, fafdf38b16bf6b2b
 mars.media, 1010442, RESELLER
 media.net, 8cu12aq1y, RESELLER
 media.net, 8cu355vs4, RESELLER
