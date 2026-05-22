@@ -1,274 +1,399 @@
-Privacy Policy
+# 🔒 Privacy Policy
 
-PRIVACY POLICY
-Last Updated: May 2026
+**Last Updated: May 2026**
 
-RifraseGames (“we”, “us”, or “our”) operates this mobile application (the “Service”). This Privacy Policy describes how information is collected, used, disclosed, and protected when you use the Service.
+Welcome to **RifraseGames**.
 
-1. Data Controller
+RifraseGames (“**we**”, “**us**”, or “**our**”) operates this mobile application (the “**Service**”). This Privacy Policy explains how information may be collected, used, disclosed, and protected while using our games and services.
+
+---
+
+## 📌 1. Data Controller
 
 RifraseGames is the data controller responsible for your information under applicable data protection laws.
 
-Contact: rifrasegames@yahoo.com
+📧 **Contact Email:**  
+rifrasegames@yahoo.com
 
-2. Information We Collect
+---
 
-We do not directly collect personally identifiable information such as your name, email address, or contact details.
+## 📊 2. Information We Collect
 
-However, certain data is collected automatically through your use of the Service and via integrated third-party services.
+We do **not directly collect personally identifiable information**, such as:
 
-2.1 Automatically Collected Information
+- Full name
+- Email address
+- Phone number
+- Home address
+- Personal contact details
 
-• Device type, model, and manufacturer  
-• Operating system and version  
-• Language and country (derived from IP address)  
-• IP address (used for approximate geolocation only)  
-• Gameplay and usage data (session duration, in-game progress, interactions)
+However, some information may be collected automatically through gameplay and integrated third-party services.
 
-2.2 Advertising and Analytics Data
+### 🎮 2.1 Automatically Collected Information
 
-The Service uses third-party advertising, mediation, and monetization services including, but not limited to, LevelPlay (ironSource mediation), Unity Ads, Google AdMob, and their advertising network partners.
+The following information may be collected automatically:
 
-These providers and their integrated advertising partners may collect and process:
+- Device type, manufacturer, and model
+- Operating system and version
+- Language settings
+- Country information (derived from IP address)
+- IP address (used only for approximate geolocation)
+- Session duration
+- Gameplay progress
+- In-game interactions
+- Performance and crash information
 
-• Advertising identifiers (e.g., Google Advertising ID, IDFA)  
-• Device identifiers  
-• IP address  
-• Approximate location information  
-• Ad interaction and performance data  
-• Diagnostic data and crash reports  
-• Usage and analytics information
+---
 
-More information:
+### 📢 2.2 Advertising & Analytics Data
 
-Unity Privacy Policy:
+The Service uses third-party **advertising, mediation, analytics, and monetization systems**, including but not limited to:
+
+- **LevelPlay (ironSource mediation)**
+- **Unity Ads**
+- **Google AdMob**
+- **Integrated advertising network partners**
+
+These providers and their integrated partners may collect and process:
+
+- Advertising identifiers (Google Advertising ID, IDFA)
+- Device identifiers
+- IP address
+- Approximate location information
+- Ad interaction and performance information
+- Diagnostic and crash reports
+- Analytics and usage information
+
+### More information:
+
+**Unity Privacy Policy**  
 https://unity.com/legal/privacy-policy
 
-LevelPlay / ironSource Privacy Policy:
+**LevelPlay / ironSource Privacy Policy**  
 https://www.is.com/privacy-policy/
 
-Google Privacy Policy:
+**Google Privacy Policy**  
 https://policies.google.com/privacy
 
-3. Legal Basis for Processing (EEA Users)
+---
 
-If you are located in the European Economic Area (EEA), we process your data under the following legal bases:
+## ⚖️ 3. Legal Basis For Processing (EEA Users)
 
-Legitimate Interest:
-to operate, maintain, and improve the Service.
+If you are located within the **European Economic Area (EEA)**, data processing may occur under one or more of the following legal bases:
 
-Consent:
-for personalized advertising where required by law.
+### Legitimate Interest
 
-4. How We Use Information
+Used to:
 
-We use collected data to:
+- Operate the Service
+- Maintain performance
+- Improve stability
+- Improve gameplay experience
 
-• Provide and operate the Service  
-• Maintain performance and stability  
-• Detect, prevent, and address technical issues  
-• Analyze usage trends and improve gameplay  
-• Deliver advertisements  
-• Improve monetization and ad relevance
+### Consent
 
-5. Data Sharing and Disclosure
+Used where required by law, including:
 
-We do not sell, rent, or trade your personal data.
+- Personalized advertisements
+- Advertising preferences
+- User tracking permissions
 
-We may share limited information with third-party advertising, mediation, and analytics providers including:
+---
 
-• LevelPlay (ironSource)  
-• Unity Ads  
-• Google AdMob  
-• Their integrated advertising partners
+## 🛠️ 4. How We Use Information
 
-Such sharing is strictly limited to what is necessary for:
+Collected information may be used to:
 
-• Advertising delivery  
-• Monetization  
-• Analytics  
-• Service functionality
+✅ Operate and provide the Service  
+✅ Improve gameplay experience  
+✅ Maintain performance and stability  
+✅ Detect and fix technical issues  
+✅ Analyze player behavior trends  
+✅ Deliver advertisements  
+✅ Improve monetization systems  
+✅ Improve ad relevance
 
-6. International Data Transfers
+---
 
-Your data may be transferred to and processed in countries outside your jurisdiction.
+## 🤝 5. Data Sharing & Disclosure
 
-We rely on third-party providers that implement appropriate safeguards in accordance with applicable data protection laws, including GDPR compliance mechanisms where required.
+We **do not sell, rent, or trade personal information.**
 
-7. Data Retention
+We may share limited information with:
 
-We do not store personal data on our own servers.
+- LevelPlay (ironSource)
+- Unity Ads
+- Google AdMob
+- Integrated advertising partners
+- Analytics providers
 
-Any processed data may be retained by third-party providers including LevelPlay (ironSource), Unity Technologies, Google, and their integrated advertising partners in accordance with their own retention policies.
+Such sharing is strictly limited to:
 
-8. Your Rights (GDPR)
+- Advertising delivery
+- Analytics
+- Monetization
+- Technical functionality
+- Service operation
 
-If you are located in the EEA, you have the following rights:
+---
 
-• Right of access  
-• Right to rectification  
-• Right to erasure (“right to be forgotten”)  
-• Right to restriction of processing  
-• Right to object  
-• Right to data portability  
-• Right to withdraw consent at any time
+## 🌎 6. International Data Transfers
 
-To exercise your rights, contact us at the email address above.
+Information may be transferred to and processed in countries outside your jurisdiction.
 
-You also have the right to lodge a complaint with a supervisory authority.
+We rely on third-party providers implementing safeguards required by applicable regulations, including:
 
-9. Advertising Choices
+- GDPR mechanisms
+- Industry-standard security practices
+- International compliance standards
 
-You may opt out of personalized advertising:
+---
 
-Android:  
-Settings → Google → Ads → Delete or Reset Advertising ID
+## 🗂️ 7. Data Retention
 
-iOS:  
-Settings → Privacy & Security → Tracking
+RifraseGames does **not store personal information on its own servers.**
 
-Please note that opting out will not remove ads but may make them non-personalized.
+Information processed through third-party systems including:
 
-10. Children's Privacy
+- LevelPlay (ironSource)
+- Unity Technologies
+- Google
+- Advertising partners
 
-The Service is not directed to children under the age of 13.
+may retain data according to their own privacy and retention policies.
 
-We do not knowingly collect personal data from children. If we become aware of such data collection, we will take appropriate steps to delete it.
+---
 
-11. Security
+## 🛡️ 8. Your Rights (GDPR)
 
-We implement reasonable administrative and technical safeguards to protect information.
+If located within the EEA, you may have the following rights:
 
-However, no system can be guaranteed to be completely secure.
+- Right of access
+- Right of correction
+- Right of deletion
+- Right to be forgotten
+- Right to object
+- Right to restrict processing
+- Right to data portability
+- Right to withdraw consent
 
-12. Changes to This Privacy Policy
+To exercise your rights:
 
-We may update this Privacy Policy from time to time.
+📧 **rifrasegames@yahoo.com**
 
-Any changes will be reflected by updating the “Last Updated” date.
+You may also contact your local supervisory authority.
 
-Continued use of the Service constitutes acceptance of the updated policy.
+---
 
-13. Contact
+## 🎯 9. Advertising Choices
+
+You can disable personalized advertising.
+
+### Android
+
+**Settings → Google → Ads → Delete or Reset Advertising ID**
+
+### iOS
+
+**Settings → Privacy & Security → Tracking**
+
+Please note:
+
+Disabling personalized advertising **does not remove advertisements entirely**, but may reduce ad personalization.
+
+---
+
+## 👶 10. Children's Privacy
+
+The Service is **not directed toward children under 13 years old.**
+
+We do not knowingly collect personal information from children.
+
+If such information is discovered, appropriate steps will be taken for deletion.
+
+---
+
+## 🔐 11. Security
+
+We implement reasonable:
+
+- Administrative safeguards
+- Technical safeguards
+- Security procedures
+
+However, no internet transmission or storage system can be guaranteed as completely secure.
+
+---
+
+## 🔄 12. Changes To This Privacy Policy
+
+We may update this Privacy Policy periodically.
+
+Updates will be reflected by revising:
+
+**Last Updated: May 2026**
+
+Continued use of the Service constitutes acceptance of changes.
+
+---
+
+# 📬 13. Contact
 
 For any questions regarding this Privacy Policy:
 
-YouTube:
+📺 **YouTube**  
 https://www.youtube.com/@rifrasegames7989
 
-Google Play:
+🎮 **Google Play Developer Page**  
 https://play.google.com/store/apps/dev?id=6121334158638535928
 
-Website:
+🌐 **Website**  
 https://rifrasegames.wixsite.com/rifrase-games
 
-Email:
+📧 **Email**  
 rifrasegames@yahoo.com
 
+---
 
+---
 
-Terms And Conditions
+# 📜 Terms And Conditions
 
-END USER LICENSE AGREEMENT (EULA)
+# END USER LICENSE AGREEMENT (EULA)
 
-Last Updated: May 2026
+**Last Updated: May 2026**
 
-1. Acceptance of Terms
+---
+
+## ✅ 1. Acceptance of Terms
 
 By downloading, installing, or using the Service, you agree to be bound by this End User License Agreement.
 
-If you do not agree, you must not use the Service.
+If you do not agree, please do not use the Service.
 
-2. License Grant
+---
 
-We grant you a limited, non-exclusive, non-transferable, revocable license to use the Service strictly for personal, non-commercial purposes.
+## 🎮 2. License Grant
 
-No ownership rights are transferred.
+We grant you a:
 
-3. Restrictions
+- Limited license
+- Non-exclusive license
+- Non-transferable license
+- Revocable license
+
+for personal, non-commercial use only.
+
+Ownership rights remain with RifraseGames.
+
+---
+
+## 🚫 3. Restrictions
 
 You agree not to:
 
-• Copy, reproduce, distribute, or resell the Service  
-• Modify, adapt, or create derivative works  
-• Reverse engineer or attempt to extract source code  
-• Use the Service for unlawful purposes  
-• Interfere with the integrity or performance of the Service
+- Copy or redistribute the Service
+- Resell the Service
+- Modify game content
+- Create derivative works
+- Reverse engineer source code
+- Use the Service unlawfully
+- Interfere with functionality
 
-4. Intellectual Property
+---
 
-All intellectual property rights related to the Service remain the exclusive property of RifraseGames.
+## 🧠 4. Intellectual Property
 
-Unauthorized use is strictly prohibited.
+All intellectual property rights remain the exclusive property of **RifraseGames**.
 
-5. Advertisements & Third-Party Services
+Unauthorized use is prohibited.
 
-The Service integrates third-party advertising, mediation, analytics services and related advertising partners including:
+---
 
-• LevelPlay (ironSource mediation)  
-• Unity Ads  
-• Google AdMob  
-• Their integrated advertising partners
+## 📢 5. Advertisements & Third-Party Services
 
-These services may process certain device and usage information for:
+The Service integrates:
 
-• Advertising delivery  
-• Analytics  
-• Monetization  
-• Performance optimization
+- LevelPlay (ironSource mediation)
+- Unity Ads
+- Google AdMob
+- Integrated advertising partners
+
+These services may process information for:
+
+- Advertising
+- Analytics
+- Performance optimization
+- Monetization
 
 We are not responsible for:
 
-• Third-party content  
-• Data handling practices of third-party providers
+- Third-party content
+- External privacy practices
+- Third-party data handling
 
-Your interactions with such services are governed by their respective policies.
+---
 
-6. Service Availability
+## ⚙️ 6. Service Availability
 
-We do not guarantee uninterrupted, secure, or error-free operation.
+We do not guarantee uninterrupted or error-free operation.
 
-We reserve the right to modify, suspend, or discontinue the Service at any time without notice.
+We reserve the right to modify or discontinue the Service at any time.
 
-7. Disclaimer of Warranties
+---
 
-The Service is provided “as is” and “as available” without warranties of any kind.
+## ⚠️ 7. Disclaimer of Warranties
 
-8. Limitation of Liability
+The Service is provided:
 
-To the maximum extent permitted by law, we shall not be liable for:
+**"AS IS"** and **"AS AVAILABLE"**
 
-• Indirect or incidental damages  
-• Loss of data or progress  
-• Device-related issues  
-• Financial losses
+without warranties of any kind.
 
-9. Termination
+---
 
-We may suspend or terminate access if you violate these terms.
+## ⛔ 8. Limitation of Liability
 
-10. Changes to This Agreement
+To the maximum extent permitted by law, RifraseGames shall not be liable for:
 
-We reserve the right to update this Agreement at any time.
+- Indirect damages
+- Device issues
+- Progress loss
+- Data loss
+- Financial damages
 
-Continued use of the Service constitutes acceptance of any changes.
+---
 
-11. Governing Law
+## 🔚 9. Termination
 
-This Agreement shall be governed by applicable laws depending on your country of residence.
+We may suspend or terminate access if these terms are violated.
 
-12. Contact
+---
 
-YouTube:
+## 🔄 10. Changes To This Agreement
+
+We reserve the right to modify this Agreement at any time.
+
+Continued use constitutes acceptance.
+
+---
+
+## ⚖️ 11. Governing Law
+
+Applicable laws may vary depending on your country or region.
+
+---
+
+# 📬 12. Contact
+
+📺 YouTube  
 https://www.youtube.com/@rifrasegames7989
 
-Google Play:
+🎮 Google Play  
 https://play.google.com/store/apps/dev?id=6121334158638535928
 
-Website:
+🌐 Website  
 https://rifrasegames.wixsite.com/rifrase-games
 
-Email:
+📧 Email  
 rifrasegames@yahoo.com
-
-If you have any questions or suggestions regarding these Terms and Conditions, feel free to contact us.
